@@ -14,13 +14,13 @@
     <meta name="keyword"
         content="resume, cv, portfolio, vcard, responsive, retina, jquery, css3, tailwindcss, material CV, creative, designer, developer, online cv, online resume, powerful portfolio, professional, landing page">
     <meta name="description" 
-        content="Minfo vCard/Resume TailwindCSS HTML Template">
+        content="Minfo >
     <meta name="author" 
         content="Themearray">
 
     <!-- Site Title
     ================================================== -->
-    <title>Minfo- Tailwind CSS Personal Resume/vCard Template</title>
+    <title>Minfo- Portfolio Gabrielle Gayno</title>
 
     <!-- Site Favicon
     ================================================== -->
@@ -478,7 +478,7 @@
                         </div>
 
                         <div>
-                            <?php
+                          <?php
                                 $webmaster_email = "youremail@gmail.com";
                                 $name = $_REQUEST['client__name'] ;
                                 $email_address = $_REQUEST['client_email'] ;
