@@ -1,2 +1,3 @@
 # gabriellegayno
-Portfólio 
+Portfólio e estudo Git
+
