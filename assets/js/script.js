@@ -150,9 +150,12 @@
     /* Testimonial Slider Hide
     /* ============================================================ */
     function hideTestimonial(){
-        let hideTestimonial = document.getElementById("testimonial-section");
+        let hideTestimonial = document.getElementById("testimonial");
+        if (testimonial){
         hideTestimonial.style.display = "none"
+        }
     }
+    hideTestimonial();
 
     /* ============================================================ */
     /* Testimonial Slider start
