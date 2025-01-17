@@ -147,6 +147,14 @@
     // Skills Slider End
 
     /* ============================================================ */
+    /* Testimonial Slider Hide
+    /* ============================================================ */
+    function hideTestimonial(){
+        let hideTestimonial = document.getElementById("testimonial");
+        hideTestimonial.style.display = "none"
+    }
+
+    /* ============================================================ */
     /* Testimonial Slider start
     /* ============================================================ */
     let testimonialSlider = new Swiper('.testimonial-slider .swiper', {
