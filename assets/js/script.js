@@ -158,7 +158,7 @@
     hideTestimonial();
   
         /* ============================================================ */
-      /* Testimonial Slider Hide
+      /* Portfolio Slider Hide
       /* ============================================================ */
   
       function hidePortfolio(){
