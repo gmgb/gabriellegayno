@@ -162,9 +162,9 @@
       /* ============================================================ */
   
       function hidePortfolio(){
-        let hidePortfolio = document.getElementById("portfolio");
-        if (portfolio){
-        hidePortfolio.style.display = "none"
+        let hidePortfolio = document.getElementById("portfolio, menuportfolio");
+        if (portfolio, menuportfolio){
+        hidePortfolio.style.display = "none";
         }
     }
     hideBlog();
