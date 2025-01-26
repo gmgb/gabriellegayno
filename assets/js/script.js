@@ -169,22 +169,6 @@
     }
     hidePortfolio();
 
-        function hidePortfolio(){
-        let hidemPortfolio = document.getElementById("mPortfolio");
-        if (mPortfolio){
-        hidemPortfolio.style.display = "none";
-        }
-    }
-    hidemPortfolio();
-
-        function hideBlog(){
-        let hideBlog = document.getElementById("blog");
-        if (blog){
-        hideBlog.style.display = "none"
-        }
-    }
-    hideBlog();
-
     /* ============================================================ */
     /* Testimonial Slider start
     /* ============================================================ */
