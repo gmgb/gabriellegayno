@@ -169,6 +169,22 @@
     }
     hidePortfolio();
 
+    function hidePortfolio(){
+        let hidePortfolio = document.getElementById("portfolio");
+        if (portfolio){
+        hidePortfolio.style.display = "none";
+        }
+    }
+    hidePortfolio();
+
+    function hideBlog(){
+        let hideBlog = document.getElementById("blog");
+        if (blog){
+        hideBlog.style.display = "none";
+        }
+    }
+    hideBlog();
+
     /* ============================================================ */
     /* Testimonial Slider start
     /* ============================================================ */
