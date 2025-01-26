@@ -167,8 +167,14 @@
         hidePortfolio.style.display = "none"
         }
     }
-    hidePortfolio();
-
+    hideBlog();
+    function hideBlog(){
+        let hideBlog = document.getElementById("blog");
+        if (blog){
+        hideblog.style.display = "none"
+        }
+    }
+    hideBlog();
 
     /* ============================================================ */
     /* Testimonial Slider start
