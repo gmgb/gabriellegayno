@@ -162,16 +162,25 @@
       /* ============================================================ */
   
       function hidePortfolio(){
-        let hidePortfolio = document.getElementById("portfolio, menuPortfolio");
-        if (portfolio, menuPortfolio){
+        let hidePortfolio = document.getElementById("portfolio");
+        if (portfolio){
         hidePortfolio.style.display = "none";
         }
     }
     hidePortfolio();
-    function hideBlog(){
+
+        function hidePortfolio(){
+        let hidemPortfolio = document.getElementById("mPortfolio");
+        if (mPortfolio){
+        hidemPortfolio.style.display = "none";
+        }
+    }
+    hidemPortfolio();
+
+        function hideBlog(){
         let hideBlog = document.getElementById("blog");
         if (blog){
-        hideblog.style.display = "none"
+        hideBlog.style.display = "none"
         }
     }
     hideBlog();
