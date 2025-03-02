@@ -3869,7 +3869,7 @@ html.dark .portfolio_wrapper .info span {
   }
 
   .md\:col-span-5 {
-    grid-column: span 5 / span 5;
+    grid-column: span 6 / span 4;
   }
 
   .md\:col-span-7 {
